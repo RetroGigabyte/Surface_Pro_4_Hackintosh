@@ -14,18 +14,6 @@ If you see anything that could be added or changed don't hesitate to sumbit a re
 
  
 
-## Supported Surface Specifications:
-
-| Model: | Pro 4 i7
-|---|----------|----------|
-|CPU| 6th Gen: i7 
-|GPU| Intel HD 520 / Iris 
-|RAM| 4/8/16 GB 
-|SSD| 128GB/256GB/512GB/1TBs NVME 
-|WiFi| Unsupported 
-|Batt| XX,000 mAH 
-|USB| 1x USB 3.0 
-
 ## Supported Software:
 
 - [X] macOS 10.15 Catalina (End of Life)
