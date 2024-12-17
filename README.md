@@ -1,7 +1,7 @@
-# Surface Pro 4 and Surface Book (gen1) Hackintosh
-This provides the ability to boot the Surface Pro 4 &amp; Surface Book (gen1) to macOS as a hackintosh.  
+# Surface Pro 4 i7 Hackintosh
+This provides the ability to boot the Surface Pro 4 i7 to macOS as a hackintosh.  
 
-EFI supports macOS version 10.15 through 14.
+EFI supports macOS version 10.15 through 15.2.
 
 Star or watch this github repository to be notified of updates coming soon. 
 
@@ -16,24 +16,24 @@ If you see anything that could be added or changed don't hesitate to sumbit a re
 
 ## Supported Surface Specifications:
 
-| Model: | Pro 4 | Book (gen1) |
+| Model: | Pro 4 i7
 |---|----------|----------|
-|CPU| 6th Gen: i3, i5, i7 | 6th Gen: i3, i5, i7|
-|GPU| Intel HD 520 / Iris | Intel HD 520 / Nvidia GPU (unsupported) |
-|RAM| 4/8/16 GB | 4/8/16 GB |
-|SSD| 128GB/256GB/512GB/1TBs NVME | 128GB/256GB/512GB/1TB NVME |
-|WiFi| Unsupported | Unsupported |
-|Batt| XX,000 mAH | XX,000 mAH |
-|USB| 1x USB 3.0 | 2x USB 3.0 |
+|CPU| 6th Gen: i7 
+|GPU| Intel HD 520 / Iris 
+|RAM| 4/8/16 GB 
+|SSD| 128GB/256GB/512GB/1TBs NVME 
+|WiFi| Unsupported 
+|Batt| XX,000 mAH 
+|USB| 1x USB 3.0 
 
 ## Supported Software:
 
 - [X] macOS 10.15 Catalina (End of Life)
 - [X] macOS 11 Big Sur (End of Life)
-- [X] macOS 12 Monterey
+- [X] macOS 12 Monterey (Unsuported by apple for updates)
 - [X] macOS 13 Ventura
 - [X] macOS 14 Sonoma
-- [ ] macOS 15 Sequoia
+- [x] macOS 15 Sequoia
 - [ ] macOS 16 (Expected to end support for Intel)
 
 
@@ -55,7 +55,6 @@ If you see anything that could be added or changed don't hesitate to sumbit a re
 - Fan
 - USB
 - Battery
-- Dual Battery Fully Supported w/hotplug (Shows as one combined battery - Surface Book)
 - Trackpad
 - TouchScreen (Requires IPTSDaemon, "Chapter 3")
 - Keyboard
@@ -75,7 +74,7 @@ If you see anything that could be added or changed don't hesitate to sumbit a re
 - Surface Keyboard Hot Plug
 - Surface Dock
 - Deep Sleep (macOS Hibernation 'Hibernatemode=25')
-- mDP (Surface Book & Surface Pro 4)
+- mDP 
 
 
 
